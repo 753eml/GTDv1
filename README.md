@@ -1,2 +1,1 @@
-# GTDv1
-garden tower defense :content:
+# Includes an autofarm and an auto-collect (sunflowers)
