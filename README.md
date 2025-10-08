@@ -1,1 +1,1 @@
-# Includes an autofarm and an auto-collect (sunflowers)
+# Multi-feature script for one game (multi-place set) called "Garden Tower Defense". :)
